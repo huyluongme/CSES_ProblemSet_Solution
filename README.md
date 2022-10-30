@@ -1,2 +1,2 @@
-# CSES_Solution
-CSES_Solution
+# CSES_ProblemSet_Solution
+CSES_ProblemSet_Solution
